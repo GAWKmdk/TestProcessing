@@ -1,3 +1,10 @@
+Processing.js and Intel XDK for Windows Phone
+
+In a nutshell, Html Canvas + Apache Cordova backend responsive for Processing.js. Add in Web Audio API for sound handles. Load as a target for Windows 8 phone through Intel XDK.
+
+** noted bug, initalizing and internet permission could use optimizing on some device to prevent white screen skip. 
+
+
 Blank Intel XDK and Apache Cordova Project Template
 ===================================================
 
